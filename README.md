@@ -42,6 +42,3 @@ The site communicates TechIt!’s value proposition
 - High-contrast color scheme with readable text.  
 
 ---
-
-## File Structure
-
